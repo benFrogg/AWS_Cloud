@@ -7,5 +7,5 @@
 1. IAM <br/>
 &nbsp;- Create groups and users <br/>
 &nbsp;- Give specific policies to user <br/>
-&nbsp;- Secure passwords by changing requirements
-&nbsp;- Setup MFA (Multi Factor Authentication)
+&nbsp;- Secure passwords by changing requirements <br/>
+&nbsp;- Setup MFA (Multi Factor Authentication) <br/>
