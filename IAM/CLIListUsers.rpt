@@ -1,0 +1,14 @@
+benj@benj:~$ aws iam list-users
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "benjamin",
+            "UserId": "...",
+            "Arn": "arn:aws:iam::...:user/benjamin",
+            "CreateDate": "2021-12-03T18:12:16+00:00",
+            "PasswordLastUsed": "2021-12-04T06:53:38+00:00"
+        }
+    ]
+}
+benj@benj:~$ 
