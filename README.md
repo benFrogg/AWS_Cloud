@@ -9,3 +9,5 @@
 &nbsp;- Give specific policies to user <br/>
 &nbsp;- Secure passwords by changing requirements <br/>
 &nbsp;- Setup MFA (Multi Factor Authentication) <br/>
+&nbsp;- Setup CLI on Windows <br/>
+&nbsp;- Setup CLI on Linux <br/>
